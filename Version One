@@ -1,0 +1,11 @@
+details {
+  background-color: white;
+  font-family: "Times New Roman";
+  font-size: 50pt;
+  color: #1E90FF;
+  text-align: center;
+
+}
+p {
+	
+}
